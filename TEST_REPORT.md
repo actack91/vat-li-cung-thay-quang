@@ -23,3 +23,13 @@
 - GitHub Pages build thành công: https://github.com/actack91/vat-li-cung-thay-quang/actions/runs/36970713654
 - Website: https://actack91.github.io/vat-li-cung-thay-quang/
 - Đã mở link HTTPS, hoàn thành trạm đồ thị 10/10, tải lại giữ phản hồi, không lỗi console. Kiểm tra trên thiết bị riêng của học sinh vẫn thuộc T12.
+
+## Kiểm tra bổ sung lớp 10
+
+- 10 nhóm kiểm thử Node đạt (gồm toàn bộ 6 nhóm lớp 11). Đối chiếu 25 đáp án mã 1101, tính độc lập quãng đường/vận tốc, kiểm tra các hình SVG và không trùng mã giữa 72 câu hai lớp.
+- Trình duyệt local: La bàn dịch chuyển 12/12, Chặng đua tốc độ 8/8, Thám tử chuyển động 12/12.
+- Lượt tổng hợp 12 câu không trùng, đúng 4 câu mỗi trạm; có tạo câu sai khi chủ động trả lời sai.
+- Lưu và tải lại câu lớp 10 thành công. Chuyển 10 → 11 → 10 giữ riêng lượt đang dở, lịch sử và câu sai. Tiến độ lớp 11 dùng nguyên khoá cũ nên không cần chuyển dữ liệu.
+- Thử tiếp một câu đồ thị lớp 11 sau thay đổi: chấm đúng và phản hồi đúng.
+- Kiểm tra hình vectơ ở máy tính, bốn đồ thị lựa chọn trên màn hình 390×844; không tràn ngang. Không ghi nhận lỗi console ở trạm đồ thị lớp 10.
+- Chưa có phản hồi chơi thử của giáo viên/học sinh cho phần lớp 10. Chưa kiểm thử tải đồng thời nhiều thiết bị.

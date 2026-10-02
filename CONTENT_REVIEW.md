@@ -17,3 +17,17 @@ Ngân hàng hiện có 40 câu: 16 nền tảng, 10 đồ thị, 14 năng lượ
 ## Giới hạn đánh giá
 
 Mỗi câu/ý đúng được 10 điểm thưởng. Không mô phỏng thang điểm chính thức của đề. Phần tự luận được chuyển thành bước tính hoặc chọn nghiệm; không chấm năng lực trình bày bài viết tay. Mô tả đồ thị bằng chữ phục vụ khả năng tiếp cận và có thể giúp người học đọc dữ kiện. Giáo viên cần duyệt trước khi giao cả lớp.
+
+## Bổ sung lớp 10
+
+- Nguồn: Ma_de_1101.docx và Dap_an_excel_app_QM.xlsx do giáo viên cung cấp. Đối chiếu đúng dòng mã 1101 (dòng 3), không dùng dòng 0000.
+- Giữ thứ tự đáp án của đủ 25 câu; thêm 7 câu nhập số bổ trợ, tổng 32 câu. Các đề chung được lặp hoặc đưa vào phần dữ kiện để từng câu tự đủ thông tin.
+- Đáp án 1101 câu 1–25: A B B D C B A B C D C B B D C A B A C C C A D A A. Đã đối chiếu và tính lại các bài số.
+- Hình vẽ lại bằng SVG, giữ số đo: d₁ = 3 cm Bắc; d₂ = 4 cm Đông Bắc 45°; d₃ = 5 cm Đông; d₄ = 2 cm Tây; tỉ xích 1 cm ↔ 50 m. Dùng số đo ghi trên hình, không đo màn hình.
+- Hành trình An: 0 → 900 → 0 → 1500 m, trạm xăng tại 300 m.
+- Hành trình ô tô: 6 km Tây, 4 km Nam, 3 km Đông; s = 13 km, |d| = 5 km hướng Tây Nam.
+- Bảng đồ chơi: t = 0,1,2,3,4,5 s; d = 0,2,4,6,6,6 m. Câu 19 giữ bốn hình I–IV và thứ tự lựa chọn I, III, II, IV.
+- Đồ thị đoạn thẳng nối (0;0), (3;6), (5;6), (9;−2), (12;−2), đơn vị s và m. s = 14 m, d = −2 m, v đoạn 5–9 s = −2 m/s.
+- Tốc độ trung bình đến thư viện: 10 km / (25/60 giờ) = 24 km/h. Tốc độ tức thời 8 giờ 15 phút là 36 km/h, khi dừng là 0.
+- Câu bổ trợ tốc độ trung bình 12 s làm tròn hàng phần trăm: 1,17 m/s.
+- Cần giáo viên và học sinh duyệt trải nghiệm thực tế trước khi coi phần bổ sung đã nghiệm thu lớp học.

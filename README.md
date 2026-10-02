@@ -33,3 +33,16 @@ Tệp phát hành chính: index.html, style.css, questions.js, app.js, .nojekyll
 - [Kiểm thử và giới hạn](TEST_REPORT.md)
 
 Không đưa mật khẩu, khoá bí mật hoặc dữ liệu học sinh vào kho. Đề Word/Excel gốc không nằm trong kho công khai.
+
+## Lớp 10
+
+Chọn Lớp 10 trên thanh chọn lớp hoặc dùng [đường dẫn lớp 10](https://actack91.github.io/vat-li-cung-thay-quang/?grade=10).
+
+- La bàn dịch chuyển: 12 câu.
+- Chặng đua tốc độ: 8 câu.
+- Thám tử chuyển động: 12 câu.
+- Tổng hợp: 12 câu, lấy 4 câu mỗi trạm.
+
+25 câu theo mã đề 1101 và 7 câu nhập số bổ trợ; có hình vectơ, sơ đồ hành trình, bảng, đồ thị d–t. Tiến độ lưu riêng theo lớp. Lớp 11 vẫn giữ 40 câu và tiến độ cũ.
+
+Nội dung lớp 10 nằm trong questions10.js; hình vẽ tại graphics10.js. Hai tệp này cần được xuất bản cùng app.js khi cập nhật website.

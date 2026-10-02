@@ -52,3 +52,12 @@ Chỉ đánh dấu hoàn thành khi đạt tiêu chí nghiệm thu, không chỉ
 | 2026-10-02 | T01–T09, T11 | 40 câu đã biên soạn; 6 nhóm test Node đạt; chơi hết ba trạm và tổng hợp; kiểm tra lưu/khôi phục/câu sai; xem TEST_REPORT.md | Xuất bản T10 và phản hồi người dùng T12 |
 
 | 2026-10-02 | T10 | GitHub Pages xuất bản thành công; link HTTPS đã chạy trọn trạm đồ thị 10/10, tải lại giữ phản hồi, không lỗi console | T12: thử trên thiết bị thật của học sinh và duyệt của giáo viên |
+
+## Bổ sung lớp 10 theo yêu cầu
+
+- [x] G10-01 — Đọc đề và đối chiếu dòng đáp án mã 1101; đủ 25 câu và 7 câu tính toán bổ trợ, nguồn từng câu.
+- [x] G10-02 — Bộ chọn lớp 10/11, chủ đề và hướng dẫn riêng; giữ khoá tiến độ lớp 11, tách tiến độ lớp 10.
+- [x] G10-03 — Vẽ lại vectơ, hành trình, bảng và đồ thị; giữ đúng nhãn, đơn vị và dữ kiện.
+- [x] G10-04 — 10 nhóm test đạt; chơi hết 32 câu, tổng hợp cân bằng 4 câu/trạm; kiểm tra chuyển lớp, tải lại và bố cục điện thoại.
+- [ ] G10-05 — Xuất bản và kiểm tra trên link công khai.
+- [ ] G10-06 — Giáo viên và học sinh thử nội dung lớp 10 trên thiết bị thực tế.
