@@ -10,7 +10,7 @@ Chỉ đánh dấu hoàn thành khi đạt tiêu chí nghiệm thu, không chỉ
 
 - [x] P01 — Chốt tên Vật Lí cùng thầy Quang và phạm vi bản cấp tốc.
 - [x] P02 — Tạo checklist đối chiếu có tiêu chí nghiệm thu.
-- [ ] P03 — Tạo kho GitHub và lưu checklist. Nghiệm thu: truy cập được kho và TASKS.md.
+- [x] P03 — Tạo kho GitHub và lưu checklist. Đã xác nhận kho https://github.com/actack91/vat-li-cung-thay-quang và TASKS.md tại commit 0d06f45.
 
 ## Task bắt buộc
 
