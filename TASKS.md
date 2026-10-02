@@ -23,7 +23,7 @@ Chỉ đánh dấu hoàn thành khi đạt tiêu chí nghiệm thu, không chỉ
 - [x] T07 — Lưu tiến độ và luyện câu sai. Nghiệm thu: tải lại có thể tiếp tục; lưu/luyện câu sai; ghi rõ dữ liệu trên thiết bị; xử lý dữ liệu lưu cũ/hỏng hoặc không lưu được.
 - [x] T08 — Luyện tổng hợp và kết quả. Nghiệm thu: phủ các kỹ năng và dạng câu; thống kê đúng/sai, gợi ý ôn; không gọi là điểm thi chính thức khi chưa xác nhận thang chấm đúng–sai/tự luận.
 - [x] T09 — Kiểm thử. Nghiệm thu: kiểm tra độc lập đáp án số, dấu, đơn vị, làm tròn; chơi hết các chế độ; kiểm tra tải lại, làm lại, điều hướng, máy tính và điện thoại; sửa lỗi cản trở học tập.
-- [ ] T10 — Xuất bản GitHub Pages. Nghiệm thu: link mở được trên thiết bị khác, tài nguyên tải đúng; không có khoá bí mật, dữ liệu học sinh hoặc đề gốc chưa được phép công khai.
+- [x] T10 — Xuất bản GitHub Pages. Nghiệm thu: link mở được trên thiết bị khác, tài nguyên tải đúng; không có khoá bí mật, dữ liệu học sinh hoặc đề gốc chưa được phép công khai.
 - [x] T11 — Hướng dẫn sử dụng. Nghiệm thu: hướng dẫn mở link, chọn bài, xem giải, luyện sai, giới hạn lưu tiến độ và cách cập nhật web.
 - [ ] T12 — Thử với nhóm nhỏ rồi chốt phát hành. Nghiệm thu: giáo viên rà nội dung, học sinh thử; ghi và sửa lỗi quan trọng. Chỉ hoàn thành khi có phản hồi thực tế.
 
@@ -50,3 +50,5 @@ Chỉ đánh dấu hoàn thành khi đạt tiêu chí nghiệm thu, không chỉ
 | 2026-10-02 | P01, P02 | Tên và phạm vi đã thống nhất; checklist đã tạo | Tạo kho và triển khai |
 
 | 2026-10-02 | T01–T09, T11 | 40 câu đã biên soạn; 6 nhóm test Node đạt; chơi hết ba trạm và tổng hợp; kiểm tra lưu/khôi phục/câu sai; xem TEST_REPORT.md | Xuất bản T10 và phản hồi người dùng T12 |
+
+| 2026-10-02 | T10 | GitHub Pages xuất bản thành công; link HTTPS đã chạy trọn trạm đồ thị 10/10, tải lại giữ phản hồi, không lỗi console | T12: thử trên thiết bị thật của học sinh và duyệt của giáo viên |

@@ -1,5 +1,7 @@
 # Vật Lí cùng thầy Quang
 
+**[Mở website ôn tập](https://actack91.github.io/vat-li-cung-thay-quang/)**
+
 Bản ôn tập cấp tốc Dao động điều hoà lớp 11. Web tĩnh HTML/CSS/JavaScript, không cần cài thư viện hoặc có máy chủ ứng dụng.
 
 ## Học sinh sử dụng
