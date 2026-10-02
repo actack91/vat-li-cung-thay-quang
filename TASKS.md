@@ -59,5 +59,7 @@ Chỉ đánh dấu hoàn thành khi đạt tiêu chí nghiệm thu, không chỉ
 - [x] G10-02 — Bộ chọn lớp 10/11, chủ đề và hướng dẫn riêng; giữ khoá tiến độ lớp 11, tách tiến độ lớp 10.
 - [x] G10-03 — Vẽ lại vectơ, hành trình, bảng và đồ thị; giữ đúng nhãn, đơn vị và dữ kiện.
 - [x] G10-04 — 10 nhóm test đạt; chơi hết 32 câu, tổng hợp cân bằng 4 câu/trạm; kiểm tra chuyển lớp, tải lại và bố cục điện thoại.
-- [ ] G10-05 — Xuất bản và kiểm tra trên link công khai.
+- [x] G10-05 — Xuất bản và kiểm tra trên link công khai.
 - [ ] G10-06 — Giáo viên và học sinh thử nội dung lớp 10 trên thiết bị thực tế.
+
+G10-05: xác nhận Pages run 36984238890 thành công; link ?grade=10 đã chạy hết trạm tốc độ 8/8, tải lại giữ phản hồi, chuyển lớp giữ riêng tiến độ. G10-06 vẫn chờ phản hồi người dùng.

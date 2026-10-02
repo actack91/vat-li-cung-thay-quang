@@ -33,3 +33,5 @@
 - Thử tiếp một câu đồ thị lớp 11 sau thay đổi: chấm đúng và phản hồi đúng.
 - Kiểm tra hình vectơ ở máy tính, bốn đồ thị lựa chọn trên màn hình 390×844; không tràn ngang. Không ghi nhận lỗi console ở trạm đồ thị lớp 10.
 - Chưa có phản hồi chơi thử của giáo viên/học sinh cho phần lớp 10. Chưa kiểm thử tải đồng thời nhiều thiết bị.
+
+- Xuất bản lớp 10: Pages run 36984238890 thành công. Trên link công khai ?grade=10 đã hoàn thành Chặng đua tốc độ 8/8, tải lại giữ phản hồi và chuyển 10 → 11 → 10 giữ tiến độ riêng.
