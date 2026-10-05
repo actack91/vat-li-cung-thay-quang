@@ -69,5 +69,5 @@ G10-05: xác nhận Pages run 36984238890 thành công; link ?grade=10 đã ch�
 - [x] G12-01 — Đọc đề và đáp án 7101; nhập 37 câu/ý có nguồn, gợi ý, lời giải và dữ kiện chung.
 - [x] G12-02 — Bộ chọn ba lớp, ba trạm nhiệt học, hướng dẫn riêng và khoá tiến độ lớp 12 riêng.
 - [x] G12-03 — Đối chiếu đáp án, tính độc lập và kiểm thử trình duyệt đủ 37 câu; 12 nhóm test đạt.
-- [ ] G12-04 — Xuất bản và xác nhận link công khai lớp 12.
+- [x] G12-04 — Xuất bản và xác nhận link công khai lớp 12. Pages run 37293977263 thành công; chấm câu, tải lại, chuyển lớp 11 → 12 giữ tiến độ.
 - [ ] G12-05 — Giáo viên/học sinh thử và phản hồi thực tế.

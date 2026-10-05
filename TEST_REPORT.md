@@ -49,3 +49,6 @@
 - Trình duyệt local: hoàn thành Nhiệt độ & nội năng 9/9, Nhiệt lượng & chuyển thể 11/11, Vận dụng nhiệt học 17/17; dữ kiện chung từng ý đúng–sai hiển thị đầy đủ.
 - Nhập 9,81 và 23,1 được chấm đúng. Tải lại kết quả và chuyển lớp 12 → 10 → 12 giữ riêng tiến độ; dữ liệu lớp 10 có trước vẫn được giữ.
 - Đã xem trang chủ desktop. Chưa có phản hồi học sinh thật cho lớp 12.
+
+- Pages run 37293977263 thành công (commit 9b272ea). Link ?grade=12 hiển thị đủ ba trạm; trả lời câu, tải lại giữ phản hồi, chuyển qua lớp 11 và về lớp 12 giữ lượt dở; không lỗi console.
+- Lượt tổng hợp local hiển thị 12 câu và giữ phản hồi sau tải lại. Chưa xác nhận lại bố cục mobile lớp 12: công cụ đặt viewport vẫn trả kích thước 1280 px, nên không tính là kiểm tra 390 px thành công.
