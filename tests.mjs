@@ -34,3 +34,23 @@ test('lớp 10: tính độc lập quãng đường, dịch chuyển, vận tố
 });
 test('lớp 10: hình cho mọi loại có SVG hoặc bảng và mô tả',()=>{for(const q of questions10.filter(q=>q.graph)){const html=graph10(q.graph);assert.match(html,/<svg/);assert.match(html,/Mô tả/);assert.ok(!html.includes('undefined'));assert.ok(!html.includes('NaN'));}});
 test('mã câu hỏi hai lớp không trùng và lớp 11 giữ đủ 40 câu',()=>{assert.equal(questions.length,40);assert.equal(new Set([...questions,...questions10].map(q=>q.id)).size,72);});
+
+import {questions12,topics12} from './questions12.js';
+const twelve=id=>questions12.find(q=>q.id===id);
+test('lớp 12: đủ 37 câu, khớp đáp án nguồn và dữ kiện đúng–sai',()=>{
+ const key='A C B D C A D B C A C B D A C B D A B C'.split(' ');
+ assert.equal(questions12.length,37);
+ key.forEach((k,i)=>assert.equal(twelve(`12q${String(i+1).padStart(2,'0')}`).answer,k.charCodeAt(0)-65));
+ assert.deepEqual(questions12.filter(q=>q.type==='boolean').map(q=>q.answer),[0,0,0,1,0,0,1,0,0,0,0,1]);
+ for(const q of questions12){assert.ok(topics12[q.topic]);for(const field of ['prompt','source','hint','explanation'])assert.ok(q[field]);if(q.type==='boolean')assert.ok(q.context.length>100);assert.ok(isCorrect(q,q.type==='number'?String(q.answer):q.answer));if(q.type!=='number')q.options.forEach((_,i)=>assert.equal(isCorrect(q,i),i===q.answer));}
+ assert.equal(new Set([...questions,...questions10,...questions12].map(q=>q.id)).size,109);
+});
+test('lớp 12: tính lại độc lập nhiệt học và làm tròn',()=>{
+ const temp=(928*20+38*100)/(928+38);
+ assert.equal(Number(temp.toFixed(2)),23.15);assert.equal(Number((38*(100-temp)/1000).toFixed(2)),2.92);
+ assert.equal(20/(2e-4),1e5);assert.equal(4-20*.05,3);
+ assert.equal(Number((40*300/.036).toPrecision(3)),333000);
+ const results=[100*(69-4)/(104-4),.2*9.81*(15-10),.5*4200*(80-20)/1400,240-90,(.3*4200*30-.02*336000)/(.32*4200)];
+ [0,2,0,0,1].forEach((dp,i)=>assert.equal(Number(results[i].toFixed(dp)),twelve(`12n${i+1}`).answer));
+ assert.ok(isCorrect(twelve('12n2'),'9,81'));assert.ok(!isCorrect(twelve('12n5'),'23,125'));assert.ok(!isCorrect(twelve('12n4'),'-150'));
+});

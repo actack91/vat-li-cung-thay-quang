@@ -1,5 +1,12 @@
 # Kiểm tra bản cấp tốc
 
+## Rà soát ngày 05/10/2026
+
+- Chạy lại `node --test tests.mjs`: 10/10 nhóm đạt, không có nhóm thất bại hoặc bị bỏ qua. Đây là kiểm tra mã nguồn tại workspace; chưa phải lần kiểm tra lại website công khai trong ngày.
+- Đối chiếu checklist: T12 và G10-06 vẫn chờ phản hồi giáo viên/học sinh, chưa đánh dấu hoàn thành.
+- Lượt thử thực tế đề nghị: mỗi khối có 2–3 học sinh mở link trên thiết bị thường dùng, hoàn thành một trạm, tải lại giữa lượt và luyện lại một câu sai. Ghi mã câu hoặc tên trạm, thao tác, kết quả mong đợi và kết quả thực tế khi có lỗi.
+- Nội dung cần giáo viên xác nhận còn lại: đề 6102 IV.2 được diễn giải làm tròn đến hàng phần trăm, kết quả 0,12 s (xem CONTENT_REVIEW.md).
+
 ## Đã thực hiện
 
 - 6 nhóm kiểm thử Node thành công: mã/nội dung ngân hàng, nhập số, tính cơ năng/quãng đường độc lập, đổi đơn vị đồ thị, chu kì/năng lượng, đáp án đúng/nhiễu toàn ngân hàng.
@@ -35,3 +42,10 @@
 - Chưa có phản hồi chơi thử của giáo viên/học sinh cho phần lớp 10. Chưa kiểm thử tải đồng thời nhiều thiết bị.
 
 - Xuất bản lớp 10: Pages run 36984238890 thành công. Trên link công khai ?grade=10 đã hoàn thành Chặng đua tốc độ 8/8, tải lại giữ phản hồi và chuyển 10 → 11 → 10 giữ tiến độ riêng.
+
+## Lớp 12 — 05/10/2026
+
+- 12/12 nhóm kiểm thử Node đạt; đủ 109 mã câu duy nhất cho ba khối, đối chiếu đáp án 7101 và tính lại các bài số.
+- Trình duyệt local: hoàn thành Nhiệt độ & nội năng 9/9, Nhiệt lượng & chuyển thể 11/11, Vận dụng nhiệt học 17/17; dữ kiện chung từng ý đúng–sai hiển thị đầy đủ.
+- Nhập 9,81 và 23,1 được chấm đúng. Tải lại kết quả và chuyển lớp 12 → 10 → 12 giữ riêng tiến độ; dữ liệu lớp 10 có trước vẫn được giữ.
+- Đã xem trang chủ desktop. Chưa có phản hồi học sinh thật cho lớp 12.

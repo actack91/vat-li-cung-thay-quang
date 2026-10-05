@@ -31,3 +31,9 @@ Mỗi câu/ý đúng được 10 điểm thưởng. Không mô phỏng thang đi
 - Tốc độ trung bình đến thư viện: 10 km / (25/60 giờ) = 24 km/h. Tốc độ tức thời 8 giờ 15 phút là 36 km/h, khi dừng là 0.
 - Câu bổ trợ tốc độ trung bình 12 s làm tròn hàng phần trăm: 1,17 m/s.
 - Cần giáo viên và học sinh duyệt trải nghiệm thực tế trước khi coi phần bổ sung đã nghiệm thu lớp học.
+
+## Bổ sung lớp 12 — 05/10/2026
+
+Đọc đầy đủ De_thi_thu_Vat_li_12_7101.docx và Dap_an_De_thi_thu_Vat_li_12_7101.docx. Không có ảnh hoặc công thức nhúng bị mất khi trích xuất. 37 câu luyện gồm 20 câu lựa chọn giữ nguyên thứ tự phương án, 12 ý đúng–sai có dữ kiện chung đầy đủ, 5 câu nhập số. Không chuyển thành thang điểm thi chính thức.
+
+Đáp án phần I: A C B D C A D B C A C B D A C B D A B C. Phần II: Đ Đ Đ S / Đ Đ S Đ / Đ Đ Đ S. Phần III: 65 °C; 9,81 J; 90 s; 150 J; 23,1 °C. Tính lại độc lập khớp đáp án; cân bằng nhiệt 23,147 °C, công pít-tông 1 J, nước–đá 23,125 °C trước làm tròn. Chấp nhận số theo yêu cầu làm tròn, không nhận 23,125 thay cho 23,1.

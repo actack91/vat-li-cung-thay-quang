@@ -46,3 +46,9 @@ Chọn Lớp 10 trên thanh chọn lớp hoặc dùng [đường dẫn lớp 10]
 25 câu theo mã đề 1101 và 7 câu nhập số bổ trợ; có hình vectơ, sơ đồ hành trình, bảng, đồ thị d–t. Tiến độ lưu riêng theo lớp. Lớp 11 vẫn giữ 40 câu và tiến độ cũ.
 
 Nội dung lớp 10 nằm trong questions10.js; hình vẽ tại graphics10.js. Hai tệp này cần được xuất bản cùng app.js khi cập nhật website.
+
+## Lớp 12 — Nhiệt học
+
+Mục lớp 12: https://actack91.github.io/vat-li-cung-thay-quang/?grade=12
+
+37 câu/ý theo đề 7101: 20 lựa chọn, 12 đúng–sai, 5 nhập số; ba trạm và tổng hợp 12 câu. Dữ kiện từng ý đầy đủ, có gợi ý và lời giải. Tiến độ dùng khoá `quang-physics-12-v1`, độc lập hai lớp cũ. Ngân hàng ở `questions12.js`. Không tải đề Word gốc lên kho công khai.
