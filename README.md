@@ -52,3 +52,7 @@ Nội dung lớp 10 nằm trong questions10.js; hình vẽ tại graphics10.js. 
 Mục lớp 12: https://actack91.github.io/vat-li-cung-thay-quang/?grade=12
 
 37 câu/ý theo đề 7101: 20 lựa chọn, 12 đúng–sai, 5 nhập số; ba trạm và tổng hợp 12 câu. Dữ kiện từng ý đầy đủ, có gợi ý và lời giải. Tiến độ dùng khoá `quang-physics-12-v1`, độc lập hai lớp cũ. Ngân hàng ở `questions12.js`. Không tải đề Word gốc lên kho công khai.
+
+## Đề tham khảo 01 và 02 lớp 10
+
+Hai thẻ trong mục lớp 10, biên soạn từ đề lẻ/chẵn 2025 với số liệu tính toán mới, giữ nguyên lý thuyết. Mỗi đề chấm 24 câu/ý của phần I–III. Phần IV chỉ có đáp án tham khảo, không yêu cầu nhập hoặc tính điểm; mở qua nút Xem tự luận hoặc sau khi hoàn thành đề. Tệp `references10.js` cần xuất bản cùng `app.js` và `graphics10.js`. Tổng hợp 12 câu giữ phạm vi ba trạm cũ; mã câu và tiến độ cũ được giữ.

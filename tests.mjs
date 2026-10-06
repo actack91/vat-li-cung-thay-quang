@@ -54,3 +54,26 @@ test('lớp 12: tính lại độc lập nhiệt học và làm tròn',()=>{
  [0,2,0,0,1].forEach((dp,i)=>assert.equal(Number(results[i].toFixed(dp)),twelve(`12n${i+1}`).answer));
  assert.ok(isCorrect(twelve('12n2'),'9,81'));assert.ok(!isCorrect(twelve('12n5'),'23,125'));assert.ok(!isCorrect(twelve('12n4'),'-150'));
 });
+
+import {references10,referenceTopics10,essays10} from './references10.js';
+test('hai đề tham khảo: đủ bốn phần và đáp án lý thuyết đã duyệt',()=>{
+ assert.equal(references10.length,48);
+ for(const topic of Object.keys(referenceTopics10)){
+ const qs=references10.filter(q=>q.topic===topic);
+ assert.deepEqual(['I','II','III','IV'].map(s=>qs.filter(q=>q.section===s).length),[12,8,4,0]);
+ assert.deepEqual(qs.filter(q=>q.type==='boolean').map(q=>q.answer),[0,1,1,0,0,0,1,0]);
+ for(const q of qs){assert.ok(q.prompt&&q.explanation&&q.source&&q.hint);assert.ok(isCorrect(q,q.type==='number'?String(q.answer):q.answer));if(q.options){assert.equal(new Set(q.options).size,q.options.length);q.options.forEach((_,i)=>assert.equal(isCorrect(q,i),i===q.answer));}if(q.section==='II'||q.section==='IV')assert.ok(q.context);}
+ }
+ assert.equal(new Set([...questions,...questions10,...questions12,...references10].map(q=>q.id)).size,157);
+});
+test('đề tham khảo: tính độc lập kết quả mới, đồ thị âm, ca nô',()=>{
+ const by=id=>references10.find(q=>q.id===id);
+ const values1=[125/100*3.6,(10-50)/(50-30),Number(Math.hypot(9,9).toFixed(1)),1.4+.9];
+ const values2=[150/100*3.6,(60-20)/(20-10),Number(Math.hypot(7,7).toFixed(1)),1.8+.9];
+ for(const [i,values]of [[1,values1],[2,values2]])['n1','n2','n3','n4'].forEach((suffix,k)=>assert.ok(Math.abs(by(`10r${i}${suffix}`).answer-values[k])<1e-10));
+ assert.ok(isCorrect(by('10r1n2'),'-2'));assert.ok(!isCorrect(by('10r1n2'),'2'));
+ assert.equal(2*12/(.4+.2),39.99999999999999);assert.equal(2*15/(.5+.25),40);
+ for(const q of references10.filter(q=>q.graph)){const html=graph10(q.graph);assert.match(html,/<svg/);assert.ok(!html.includes('Câu 4'));assert.ok(!html.includes('1101'));}
+});
+
+test("tự luận chỉ tham khảo và không nằm trong ngân hàng chấm",()=>{assert.equal(references10.filter(q=>q.section==='IV').length,0);assert.equal(essays10.ref01.length,2);assert.equal(essays10.ref02.length,2);assert.match(essays10.ref01[0].solution,/1100 m/);assert.match(essays10.ref02[0].solution,/1,8 km/);assert.match(essays10.ref01[1].solution,/40 s/);assert.match(essays10.ref02[1].solution,/50 s/);});

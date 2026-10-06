@@ -52,3 +52,7 @@
 
 - Pages run 37293977263 thành công (commit 9b272ea). Link ?grade=12 hiển thị đủ ba trạm; trả lời câu, tải lại giữ phản hồi, chuyển qua lớp 11 và về lớp 12 giữ lượt dở; không lỗi console.
 - Lượt tổng hợp local hiển thị 12 câu và giữ phản hồi sau tải lại. Chưa xác nhận lại bố cục mobile lớp 12: công cụ đặt viewport vẫn trả kích thước 1280 px, nên không tính là kiểm tra 390 px thành công.
+
+## Hai đề tham khảo lớp 10 — 06/10/2026
+
+15 nhóm kiểm thử đạt. Trình duyệt local chạy hết đề 01 và 02, mỗi đề 24/24 đúng; nhập số âm và dấu phẩy; tải lại kết quả giữ nguyên. Trang tự luận không có ô nhập, không tính vào điểm. Đã xem đồ thị số liệu mới của đề 02, không lỗi console. Tổng hợp vẫn lấy 4 câu từ mỗi trạm cũ, không tăng thành 20 câu do thêm hai đề.

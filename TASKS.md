@@ -71,3 +71,10 @@ G10-05: xác nhận Pages run 36984238890 thành công; link ?grade=10 đã ch�
 - [x] G12-03 — Đối chiếu đáp án, tính độc lập và kiểm thử trình duyệt đủ 37 câu; 12 nhóm test đạt.
 - [x] G12-04 — Xuất bản và xác nhận link công khai lớp 12. Pages run 37293977263 thành công; chấm câu, tải lại, chuyển lớp 11 → 12 giữ tiến độ.
 - [ ] G12-05 — Giáo viên/học sinh thử và phản hồi thực tế.
+
+## Đề tham khảo lớp 10 — 06/10/2026
+
+- [x] R10-01 — Áp dụng hiệu chỉnh đã được giáo viên xác nhận; giữ lý thuyết và đổi số bài tính.
+- [x] R10-02 — Thêm Đề tham khảo 01/02, mỗi đề 24 câu/ý chấm và hai bài tự luận chỉ tham khảo.
+- [x] R10-03 — 15 nhóm test đạt, trình duyệt hoàn thành hai đề 24/24; tự luận không nhập, không tính điểm.
+- [ ] R10-04 — Xác nhận hai đề trên website công khai.

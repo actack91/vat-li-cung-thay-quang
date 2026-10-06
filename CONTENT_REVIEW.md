@@ -37,3 +37,11 @@ Mỗi câu/ý đúng được 10 điểm thưởng. Không mô phỏng thang đi
 Đọc đầy đủ De_thi_thu_Vat_li_12_7101.docx và Dap_an_De_thi_thu_Vat_li_12_7101.docx. Không có ảnh hoặc công thức nhúng bị mất khi trích xuất. 37 câu luyện gồm 20 câu lựa chọn giữ nguyên thứ tự phương án, 12 ý đúng–sai có dữ kiện chung đầy đủ, 5 câu nhập số. Không chuyển thành thang điểm thi chính thức.
 
 Đáp án phần I: A C B D C A D B C A C B D A C B D A B C. Phần II: Đ Đ Đ S / Đ Đ S Đ / Đ Đ Đ S. Phần III: 65 °C; 9,81 J; 90 s; 150 J; 23,1 °C. Tính lại độc lập khớp đáp án; cân bằng nhiệt 23,147 °C, công pít-tông 1 J, nước–đá 23,125 °C trước làm tròn. Chấp nhận số theo yêu cầu làm tròn, không nhận 23,125 thay cho 23,1.
+
+## Đề tham khảo lớp 10 — 06/10/2026
+
+Đề tham khảo 01 từ đề lẻ 2025; 02 từ đề chẵn. Giáo viên xác nhận đáp án nguồn chẵn I.7 D, II.2d Đúng; lẻ III.2 −1,5; phần II có hai câu; đồng ý đáp án tự luận đã tính. Giữ nguyên các câu lý thuyết, thay số liệu các bài tính và tính lại, kể cả đồ thị. 16 câu lý thuyết phần I đối chiếu nguyên văn câu hỏi/phương án với DOCX.
+
+Mỗi đề có 24 câu/ý chấm tự động (12 lựa chọn, 8 đúng–sai, 4 nhập số). Phần IV chỉ có hai bài và đáp án tham khảo, không nhập, không tính điểm theo yêu cầu mới nhất của thầy. Không đưa bốn ý tự luận vào ngân hàng chấm hoặc luyện sai.
+
+Đáp án mới phần III: đề 01 = 4,5 km/h; −2 m/s; 12,7 km; 2,3 m/s. Đề 02 = 5,4 km/h; 4 m/s; 9,9 km; 2,7 m/s. Tự luận 01: 1100 m Đông; 10 m/s, 40 s. Tự luận 02: 1,8 km Đông; 10 m/s, 50 s. Đồ thị vẽ lại chỉ chứa đường và trục, không chứa câu hỏi cũ.
